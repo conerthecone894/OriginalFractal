@@ -8,7 +8,7 @@ void setup(){
 }
 
 void draw(){
-  fill(34, 32, 60, 100);
+  fill(34, 32, 60, 88);
   rect(256, 256, 512, 512);
 
   translate(256, 256);
