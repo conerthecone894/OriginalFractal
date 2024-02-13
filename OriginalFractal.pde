@@ -1,4 +1,3 @@
-boolean xm = true;
 float r = 0;
 
 void setup(){
