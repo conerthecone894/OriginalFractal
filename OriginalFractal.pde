@@ -36,7 +36,7 @@ public void fractal(float x, float y, float s){
   rect(x-8, y-8, s, s);
   
   fill(255);
-  circle(x, y, s);
+  ellipse(x, y, s, s);
   
   rotate(-PI/4);
   
